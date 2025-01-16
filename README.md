@@ -24,7 +24,7 @@ pip install opencv-python numpy matplotlib tensorflow keras
 ### Clone the Repository
 To get started, clone this repository:
 
-git clone https://github.com/yourusername/object-detection-opencv.git
+git clone https://github.com/anirbanbanerjee07/object-detection-opencv.git
 cd object-detection-opencv
 
 ## 🚀 Usage
