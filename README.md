@@ -31,7 +31,4 @@ cd object-detection-opencv
 
 To run the object detection script, execute:
 
-python detect.py --image
-path_to_your_image.jpg 
-
-You can replace `path_to_your_image.jpg` with
+python objectDetection_videoProof.mp4 --Video
