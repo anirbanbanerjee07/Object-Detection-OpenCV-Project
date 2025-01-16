@@ -1,5 +1,3 @@
-Certainly! Below is a professional README.md template for an "Object Detection OpenCV Project" that you can use on GitHub. It includes sections typically found in a README, along with specific emojis to enhance the visual appeal.
-
 # 🕵️‍♂️ Object Detection with OpenCV
 
 Welcome to the **Object Detection with OpenCV** project! This repository contains code and resources for implementing object detection algorithms using the OpenCV library in Python. 
